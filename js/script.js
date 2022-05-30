@@ -1,3 +1,5 @@
+// IMPLEMENTAR LUEGO
+/*
 const buscador = document.querySelector('.buscador');
 const btn = document.querySelector('.btn');
 const input = document.querySelector('.input');
@@ -28,3 +30,4 @@ function iniciar(event){
 }
 
 rec.start();
+*/
