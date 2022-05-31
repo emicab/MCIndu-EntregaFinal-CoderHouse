@@ -119,14 +119,11 @@ $animacion-buscador: cubic-bezier(0.49, 0.95, 0.75, 0.98);
             }
         }
         .input{
-            // background-color: #222;
             border: 0;
             font-size: 18px;
-            // padding: 15px;
             height: 50px;
             width: 50px;
             outline: none;
-            // border-radius: 13px;
             transition: transform 0.5s $animacion-buscador;
         }
         .btn{
