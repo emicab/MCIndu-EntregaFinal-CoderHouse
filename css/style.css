@@ -101,8 +101,8 @@ table {
   bottom: 85px;
   right: -100%;
   text-align: center;
-  -webkit-transition: all 0.8s cubic-bezier(0, 1, 0.76, 0.65);
-  transition: all 0.8s cubic-bezier(0, 1, 0.76, 0.65);
+  -webkit-transition: all 0.8s cubic-bezier(0, 1, 0.75, 0.65);
+  transition: all 0.8s cubic-bezier(0, 1, 0.75, 0.65);
   z-index: 20;
 }
 
